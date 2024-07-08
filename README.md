@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/mateosolinho/mateosolinho/master/banner.png"></p>
 
+<br>
+
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Mateo;I'm+an+Software+Developer;+I+love+Data+Science+and+ML;Checkout+my+Projects!;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>

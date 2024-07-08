@@ -8,7 +8,7 @@
 
 A passionate software developer 🌟 with a strong interest in data science 📊 and machine learning 🤖. I am excited to create innovative solutions, automate tasks and explore the fascinating world of AI. Strong defender of open source 📜 and continuous learning. Always working to improve as a person and as a developer 🌱, trying to integrate into new technologies 🛠️ and looking for challenges to face every day 🚀.
 
-<img width="30%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/mateosolinho/mateosolinho/master/text3.png">
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/mateosolinho/mateosolinho/master/text3.png">
 
 <br>
 

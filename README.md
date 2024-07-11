@@ -10,8 +10,6 @@
 
 A passionate software developer 🌟 with a strong interest in data science 📊 and machine learning 🤖. I am excited to create innovative solutions, automate tasks and explore the fascinating world of AI. Strong defender of open source 📜 and continuous learning. Always working to improve as a person and as a developer 🌱, trying to integrate into new technologies 🛠️ and looking for challenges to face every day 🚀.
 
-<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/mateosolinho/mateosolinho/master/text3.png">
-
 <br>
 
 - 🔭 I’m currently focused on improving my **programming skills** and **exploring new technologies**.
@@ -29,7 +27,7 @@ A passionate software developer 🌟 with a strong interest in data science 📊
 <h2 align="left">🔗 Connect with me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mateo-soli%C3%B1o-blanco-7735a5274/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateodv/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:mateosolino1@gmail.com" target="_blank">

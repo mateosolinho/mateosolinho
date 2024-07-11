@@ -20,7 +20,7 @@ A passionate software developer 🌟 with a strong interest in data science 📊
 
 - 💡 Feel free to reach out if you’re interested in discussing **software development**, or **emerging tech trends**.
 
-- 📫 How to reach me **[My Linkedin Profile](https://www.linkedin.com/in/mateo-soli%C3%B1o-blanco-7735a5274/)**
+- 📫 How to reach me **[My Linkedin Profile](https://www.linkedin.com/in/mateodv/)**
 
 <br>
 

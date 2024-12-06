@@ -3,7 +3,7 @@
 <br>
 
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Mateo;I'm+a+Software+Developer;+Now+Learning+C\+\+;+I+love+Coding+and+Technology;Checkout+my+Projects!;let's+Connect!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=00f200&width=535&lines=Hi,+I'm+Mateo;I'm+a+Software+Developer;+Now+Learning+CPP;+I+love+Coding+and+Technology;Checkout+my+Projects!;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
 <h2 align=""> 👋 Hi, I'm Mateo, a Developer from Spain</h2>
